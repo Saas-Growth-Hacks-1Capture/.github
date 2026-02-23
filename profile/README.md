@@ -1,28 +1,28 @@
-We brought you verified [1Capture coupons](https://www.1capture.com/) for founders and marketing teams looking to implement the most effective saas growth hacks, using which you can eliminate per-transaction fees entirely and get started for just $1/month.
+We brought you verified [1Capture coupons](https://www.1capture.io) for founders and marketing teams looking to implement the most effective saas growth hacks, using which you can eliminate per-transaction fees entirely and get started for just $1/month.
 
 ## Unlock the Best SaaS Growth Hacks for Just $1/Month
 
-[**Get started for $1/mo**](https://www.1capture.com/) if your startup is under $5k in Monthly Recurring Revenue (MRR). This tier acts as the ultimate entry point to test 1Capture's trial-to-paid conversion tools, giving early-stage teams the full platform for the price of a coffee.
+[**Get started for $1/mo**](https://www.1capture.io) if your startup is under $5k in Monthly Recurring Revenue (MRR). This tier acts as the ultimate entry point to test 1Capture's trial-to-paid conversion tools, giving early-stage teams the full platform for the price of a coffee.
 
-[![Claim This Discount](image_cta.png)](https://www.1capture.com/)
+[![Claim This Discount](image_cta.png)](https://www.1capture.io)
 
 ## Keep 100% of Your Revenue With 1Capture
 
-[**Scale without per-transaction fees**](https://www.1capture.com/) using 1Capture's flat-tier pricing model. Unlike legacy billing platforms that take a percentage of your hard-earned revenue, 1Capture lets you implement AI-driven saas growth hacks while keeping every dollar you optimize.
+[**Scale without per-transaction fees**](https://www.1capture.io) using 1Capture's flat-tier pricing model. Unlike legacy billing platforms that take a percentage of your hard-earned revenue, 1Capture lets you implement AI-driven saas growth hacks while keeping every dollar you optimize.
 
-[![Claim This Discount](image_cta.png)](https://www.1capture.com/)
+[![Claim This Discount](image_cta.png)](https://www.1capture.io)
 
 ## 1Capture Promo Code: Automate Your Optimization
 
-[**Activate your 1Capture account**](https://www.1capture.com/) and deploy GPT-5 optimization across your trial flows in under 5 minutes. By automating A/B testing and smart payment capture, 1Capture acts as a dedicated growth team, freeing you up to focus on product development rather than manual conversion tweaks.
+[**Activate your 1Capture account**](https://www.1capture.io) and deploy GPT-5 optimization across your trial flows in under 5 minutes. By automating A/B testing and smart payment capture, 1Capture acts as a dedicated growth team, freeing you up to focus on product development rather than manual conversion tweaks.
 
-[![Claim This Discount](image_cta.png)](https://www.1capture.com/)
+[![Claim This Discount](image_cta.png)](https://www.1capture.io)
 
 ## How to Apply the 1Capture Coupon Code?
 
 Follow these 4 simple steps to claim your startup pricing and eliminate transaction fees.
 
-**Step 1:** Visit the **1Capture official website** with this [**discount link**](https://www.1capture.com/).
+**Step 1:** Visit the **1Capture official website** with this [**discount link**](https://www.1capture.io).
 
 ![1Capture official website](image_homepage.png)
 
@@ -105,7 +105,7 @@ For businesses tired of rising Customer Acquisition Costs (CAC), 1Capture is one
 
 ## What is 1Capture?
 
-[1Capture](https://www.1capture.com/) is an AI-powered revenue optimization platform built specifically to help growing SaaS companies execute their best **saas growth hacks** on autopilot.
+[1Capture](https://www.1capture.io) is an AI-powered revenue optimization platform built specifically to help growing SaaS companies execute their best **saas growth hacks** on autopilot.
 
 Rather than focusing purely on driving top-of-funnel traffic, 1Capture targets the bottom of the funnel: maximizing trial-to-paid conversions. Through GPT-5 optimization, smart payment capture, and deep conversion analytics, the platform helps you convert more of the leads you already have without increasing your ad spend.
 
@@ -117,7 +117,7 @@ If your SaaS is experiencing a bottleneck in converting free trials into paying 
 
 If you want a powerful, AI-driven platform that actually acts as an autopilot for your saas growth hacks, 1Capture is a top-tier choice. With their predictable MRR-based pricing, you never lose a percentage of your revenue to transaction fees. Grab your $1/month access if you are under $5k MRR, and take advantage of their automated optimization to scale your SaaS securely.
 
-[![Claim This Discount](image_cta.png)](https://www.1capture.com/)
+[![Claim This Discount](image_cta.png)](https://www.1capture.io)
 
 Create your account, integrate the platform, and start converting more trials faster and smarter.
 
