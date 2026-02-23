@@ -10,13 +10,13 @@ We brought you verified [1Capture coupons](https://www.1capture.io) for founders
 
 [**Scale without per-transaction fees**](https://www.1capture.io) using 1Capture's flat-tier pricing model. Unlike legacy billing platforms that take a percentage of your hard-earned revenue, 1Capture lets you implement AI-driven saas growth hacks while keeping every dollar you optimize.
 
-[![Claim This Discount](image_cta.png)](https://www.1capture.io)
+[![Claim This Discount](https://raw.githubusercontent.com/Saas-Growth-Hacks-1Capture/.github/refs/heads/main/1capturediscount.png)](https://www.1capture.io)
 
 ## 1Capture Promo Code: Automate Your Optimization
 
 [**Activate your 1Capture account**](https://www.1capture.io) and deploy GPT-5 optimization across your trial flows in under 5 minutes. By automating A/B testing and smart payment capture, 1Capture acts as a dedicated growth team, freeing you up to focus on product development rather than manual conversion tweaks.
 
-[![Claim This Discount](image_cta.png)](https://www.1capture.io)
+[![Claim This Discount](https://raw.githubusercontent.com/Saas-Growth-Hacks-1Capture/.github/refs/heads/main/1capturediscount.png)](https://www.1capture.io)
 
 ## How to Apply the 1Capture Coupon Code?
 
@@ -24,15 +24,17 @@ Follow these 4 simple steps to claim your startup pricing and eliminate transact
 
 **Step 1:** Visit the **1Capture official website** with this [**discount link**](https://www.1capture.io).
 
-![1Capture official website](image_homepage.png)
+[![1Capture official website](https://raw.githubusercontent.com/Saas-Growth-Hacks-1Capture/.github/refs/heads/main/1captureofficial.png)](https://www.1capture.io)
 
 **Step 2:** Click on the **Pricing** tab from the top bar to view their MRR-based flat billing tiers.
 
-![Select a plan](image_pricing.png)
+[![Select a plan](https://raw.githubusercontent.com/Saas-Growth-Hacks-1Capture/.github/refs/heads/main/1captureprice.png)](https://www.1capture.io/price)
 
 **Step 3:** Now, **create your 1Capture account** by entering your email ID.
 
-![Sign up](image_signup.png)
+
+[![Sign up](https://raw.githubusercontent.com/Saas-Growth-Hacks-1Capture/.github/refs/heads/main/1capturelogin.png)](https://app.1capture.io/login)
+
 
 **Tip:** Your account automatically unlocks all premium features, including advanced analytics and payment intelligence, regardless of your MRR tier.
 
@@ -53,7 +55,8 @@ If you are not seeing the correct MRR tier reflected in your billing, follow the
 
 Unlike competitors that charge a percentage of your total volume, 1Capture uses transparent, flat monthly tiers based on your MRR. You get every feature on every plan, with absolutely zero transaction fees.
 
-![1Capture pricing](image_pricing_table.png)
+
+[![1Capture pricing](https://raw.githubusercontent.com/Saas-Growth-Hacks-1Capture/.github/refs/heads/main/1capturepriceplans.png)](https://www.1capture.io/pricing)
 
 | Plan Type (Based on MRR) | Flat Monthly Fee | Included Features |
 | --- | --- | --- |
@@ -117,7 +120,9 @@ If your SaaS is experiencing a bottleneck in converting free trials into paying 
 
 If you want a powerful, AI-driven platform that actually acts as an autopilot for your saas growth hacks, 1Capture is a top-tier choice. With their predictable MRR-based pricing, you never lose a percentage of your revenue to transaction fees. Grab your $1/month access if you are under $5k MRR, and take advantage of their automated optimization to scale your SaaS securely.
 
-[![Claim This Discount](image_cta.png)](https://www.1capture.io)
+
+[![Claim This Discount](https://raw.githubusercontent.com/Saas-Growth-Hacks-1Capture/.github/refs/heads/main/1capturediscount.png)](https://www.1capture.io)
+
 
 Create your account, integrate the platform, and start converting more trials faster and smarter.
 
